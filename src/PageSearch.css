@@ -1,0 +1,26 @@
+.searchPage__info {
+    padding: 20px;
+}
+
+.searchPage__info > p {
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.Pagesearch__info > h1{
+    margin-bottom: 30px;
+}
+
+.Pagesearch__info > button {
+    background-color:teal;
+    color: white;
+    font-weight: 600;
+    border-radius: 30px;
+    text-transform:inherit;
+    margin: 5px;
+}
+
+.Pagesearch__info > button:hover {
+    background-color: white;
+    color: teal !important;
+}
